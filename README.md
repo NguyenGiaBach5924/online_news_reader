@@ -1,1 +1,1 @@
-A repository for the project "Online News Reader Client" of the course Mobile Application Development
+A repository for the project "Online News Reader Client" of the course Mobile Application Development.
